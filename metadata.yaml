@@ -1,0 +1,45 @@
+_repo: Stanford-Achievement-Test-Ed.-1922Advanced-Examination-Form-A-for-Grades-4-8_22425
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kelley, Truman Lee
+    aliases:
+    - Kelley, T. L.
+    - Kelly, Truman L.
+    birthdate: 1884
+    deathdate: 1961
+    gutenberg_agent_id: '25326'
+    url: http://www.gutenberg.org/2009/agents/25326
+  - agent_name: Terman, Lewis M. (Lewis Madison)
+    alias: Terman, Lewis Madison
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '9446'
+    url: http://www.gutenberg.org/2009/agents/9446
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Terman
+  - agent_name: Ruch, G. M. (Giles Murrel)
+    alias: Ruch, Giles Murrel
+    birthdate: 1892
+    deathdate: 1943
+    gutenberg_agent_id: '25327'
+    url: http://www.gutenberg.org/2009/agents/25327
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2007-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Psychological tests'
+title: 'Stanford Achievement Test, Ed. 1922
+
+  Advanced Examination, Form A, for Grades 4-8'
+url: http://www.gutenberg.org/ebooks/22425
